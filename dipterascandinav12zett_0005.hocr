@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dipterascandinav12zett_0005.png"; bbox 0 0 1695 3020; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 809 148 1650 274">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 809 148 1650 274">
+     <span class='ocr_line' id='line_1_1' title="bbox 809 148 1650 274; baseline -0.011 -5"><span class='ocrx_word' id='word_1_1' title='bbox 809 148 871 274; x_wconf 47' lang='lat' dir='ltr'>(j</span> <span class='ocrx_word' id='word_1_2' title='bbox 1327 227 1516 269; x_wconf 72' lang='lat' dir='ltr'>nomssw</span> <span class='ocrx_word' id='word_1_3' title='bbox 1547 226 1589 263; x_wconf 70' lang='lat' dir='ltr'>&#39;w</span> <span class='ocrx_word' id='word_1_4' title='bbox 1619 224 1650 260; x_wconf 72' lang='lat' dir='ltr'>&#39;r</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1285 281 1683 425">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1285 281 1683 425">
+     <span class='ocr_line' id='line_1_2' title="bbox 1289 281 1683 333; baseline -0.015 -14"><span class='ocrx_word' id='word_1_5' title='bbox 1289 290 1331 333; x_wconf 67' lang='grc' dir='ltr'><strong><em>μ</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1353 281 1487 330; x_wconf 50' lang='grc' dir='ltr'>,(Διῑηῃ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1514 291 1566 326; x_wconf 45' lang='lat' dir='ltr'>aq}</span> <span class='ocrx_word' id='word_1_8' title='bbox 1594 290 1683 326; x_wconf 59' lang='lat'>11:013</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1285 366 1662 425; baseline -0.027 -14"><span class='ocrx_word' id='word_1_9' title='bbox 1285 369 1535 425; x_wconf 26' lang='lat' dir='ltr'>*Hamus*</span> <span class='ocrx_word' id='word_1_10' title='bbox 1565 367 1599 402; x_wconf 75' lang='lat' dir='ltr'>“l</span> <span class='ocrx_word' id='word_1_11' title='bbox 1628 366 1662 406; x_wconf 62' lang='lat' dir='ltr'>{v</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
